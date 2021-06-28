@@ -1,9 +1,9 @@
 (window["webpackJsonp"] = window["webpackJsonp"] || []).push([["styles"], {
   /***/
   "../../node_modules/css-loader/dist/cjs.js?!../../node_modules/postcss-loader/src/index.js?!../../node_modules/sass-loader/dist/cjs.js?!./src/styles.scss":
-  /*!************************************************************************************************************************************************************************************************************************************************************************************************************!*\
-    !*** /home/runner/work/ng-time-chart/ng-time-chart/node_modules/css-loader/dist/cjs.js??ref--13-1!/home/runner/work/ng-time-chart/ng-time-chart/node_modules/postcss-loader/src??embedded!/home/runner/work/ng-time-chart/ng-time-chart/node_modules/sass-loader/dist/cjs.js??ref--13-3!./src/styles.scss ***!
-    \************************************************************************************************************************************************************************************************************************************************************************************************************/
+  /*!************************************************************************************************************************************************************************************************************************************************************************************!*\
+    !*** /home/runner/work/charugala/charugala/node_modules/css-loader/dist/cjs.js??ref--13-1!/home/runner/work/charugala/charugala/node_modules/postcss-loader/src??embedded!/home/runner/work/charugala/charugala/node_modules/sass-loader/dist/cjs.js??ref--13-3!./src/styles.scss ***!
+    \************************************************************************************************************************************************************************************************************************************************************************************/
 
   /*! no static exports found */
 
@@ -18,7 +18,7 @@
 
     exports.push([module.i, "/* You can add global styles to this file, and also import other style files */\n.my-class-a {\n  border-color: #CB561E;\n  background-color: #f2c1a9;\n}\n.my-class-a .blockade-day {\n  background-color: #CB561E;\n}", "", {
       "version": 3,
-      "sources": ["/home/runner/work/ng-time-chart/ng-time-chart/projects/ng-time-chart-showcase/src/styles.scss", "styles.scss"],
+      "sources": ["/home/runner/work/charugala/charugala/projects/ng-time-chart-showcase/src/styles.scss", "styles.scss"],
       "names": [],
       "mappings": "AAAA,8EAAA;AAEA;EACE,qBAAA;EACA,yBAAA;ACAF;ADEE;EACE,yBAAA;ACAJ",
       "file": "styles.scss",
@@ -31,9 +31,9 @@
 
   /***/
   "../../node_modules/css-loader/dist/runtime/api.js":
-  /*!*************************************************************************************************!*\
-    !*** /home/runner/work/ng-time-chart/ng-time-chart/node_modules/css-loader/dist/runtime/api.js ***!
-    \*************************************************************************************************/
+  /*!*****************************************************************************************!*\
+    !*** /home/runner/work/charugala/charugala/node_modules/css-loader/dist/runtime/api.js ***!
+    \*****************************************************************************************/
 
   /*! no static exports found */
 
@@ -139,9 +139,9 @@
 
   /***/
   "../../node_modules/style-loader/dist/runtime/injectStylesIntoStyleTag.js":
-  /*!************************************************************************************************************************!*\
-    !*** /home/runner/work/ng-time-chart/ng-time-chart/node_modules/style-loader/dist/runtime/injectStylesIntoStyleTag.js ***!
-    \************************************************************************************************************************/
+  /*!****************************************************************************************************************!*\
+    !*** /home/runner/work/charugala/charugala/node_modules/style-loader/dist/runtime/injectStylesIntoStyleTag.js ***!
+    \****************************************************************************************************************/
 
   /*! no static exports found */
 
@@ -464,7 +464,7 @@
   /***/
   function _(module, exports, __webpack_require__) {
     module.exports = __webpack_require__(
-    /*! /home/runner/work/ng-time-chart/ng-time-chart/projects/ng-time-chart-showcase/src/styles.scss */
+    /*! /home/runner/work/charugala/charugala/projects/ng-time-chart-showcase/src/styles.scss */
     "./src/styles.scss");
     /***/
   }

@@ -1,9 +1,9 @@
 (window["webpackJsonp"] = window["webpackJsonp"] || []).push([["polyfills"],{
 
 /***/ "../../node_modules/zone.js/dist/zone-evergreen.js":
-/*!*************************************************************************************************!*\
-  !*** /home/runner/work/ng-time-chart/ng-time-chart/node_modules/zone.js/dist/zone-evergreen.js ***!
-  \*************************************************************************************************/
+/*!*****************************************************************************************!*\
+  !*** /home/runner/work/charugala/charugala/node_modules/zone.js/dist/zone-evergreen.js ***!
+  \*****************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -3033,7 +3033,7 @@ __webpack_require__.r(__webpack_exports__);
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-module.exports = __webpack_require__(/*! /home/runner/work/ng-time-chart/ng-time-chart/projects/ng-time-chart-showcase/src/polyfills.ts */"./src/polyfills.ts");
+module.exports = __webpack_require__(/*! /home/runner/work/charugala/charugala/projects/ng-time-chart-showcase/src/polyfills.ts */"./src/polyfills.ts");
 
 
 /***/ })

@@ -1,9 +1,9 @@
 (window["webpackJsonp"] = window["webpackJsonp"] || []).push([["styles"],{
 
 /***/ "../../node_modules/css-loader/dist/cjs.js?!../../node_modules/postcss-loader/src/index.js?!../../node_modules/sass-loader/dist/cjs.js?!./src/styles.scss":
-/*!************************************************************************************************************************************************************************************************************************************************************************************************************!*\
-  !*** /home/runner/work/ng-time-chart/ng-time-chart/node_modules/css-loader/dist/cjs.js??ref--13-1!/home/runner/work/ng-time-chart/ng-time-chart/node_modules/postcss-loader/src??embedded!/home/runner/work/ng-time-chart/ng-time-chart/node_modules/sass-loader/dist/cjs.js??ref--13-3!./src/styles.scss ***!
-  \************************************************************************************************************************************************************************************************************************************************************************************************************/
+/*!************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** /home/runner/work/charugala/charugala/node_modules/css-loader/dist/cjs.js??ref--13-1!/home/runner/work/charugala/charugala/node_modules/postcss-loader/src??embedded!/home/runner/work/charugala/charugala/node_modules/sass-loader/dist/cjs.js??ref--13-3!./src/styles.scss ***!
+  \************************************************************************************************************************************************************************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -11,7 +11,7 @@
 var ___CSS_LOADER_API_IMPORT___ = __webpack_require__(/*! ../../../node_modules/css-loader/dist/runtime/api.js */ "../../node_modules/css-loader/dist/runtime/api.js");
 exports = ___CSS_LOADER_API_IMPORT___(true);
 // Module
-exports.push([module.i, "/* You can add global styles to this file, and also import other style files */\n.my-class-a {\n  border-color: #CB561E;\n  background-color: #f2c1a9;\n}\n.my-class-a .blockade-day {\n  background-color: #CB561E;\n}", "",{"version":3,"sources":["/home/runner/work/ng-time-chart/ng-time-chart/projects/ng-time-chart-showcase/src/styles.scss","styles.scss"],"names":[],"mappings":"AAAA,8EAAA;AAEA;EACE,qBAAA;EACA,yBAAA;ACAF;ADEE;EACE,yBAAA;ACAJ","file":"styles.scss","sourcesContent":["/* You can add global styles to this file, and also import other style files */\n\n.my-class-a {\n  border-color: #CB561E;\n  background-color: lighten(#CB561E, 35%);\n\n  .blockade-day {\n    background-color: #CB561E;\n  }\n\n}\n","/* You can add global styles to this file, and also import other style files */\n.my-class-a {\n  border-color: #CB561E;\n  background-color: #f2c1a9;\n}\n.my-class-a .blockade-day {\n  background-color: #CB561E;\n}"]}]);
+exports.push([module.i, "/* You can add global styles to this file, and also import other style files */\n.my-class-a {\n  border-color: #CB561E;\n  background-color: #f2c1a9;\n}\n.my-class-a .blockade-day {\n  background-color: #CB561E;\n}", "",{"version":3,"sources":["/home/runner/work/charugala/charugala/projects/ng-time-chart-showcase/src/styles.scss","styles.scss"],"names":[],"mappings":"AAAA,8EAAA;AAEA;EACE,qBAAA;EACA,yBAAA;ACAF;ADEE;EACE,yBAAA;ACAJ","file":"styles.scss","sourcesContent":["/* You can add global styles to this file, and also import other style files */\n\n.my-class-a {\n  border-color: #CB561E;\n  background-color: lighten(#CB561E, 35%);\n\n  .blockade-day {\n    background-color: #CB561E;\n  }\n\n}\n","/* You can add global styles to this file, and also import other style files */\n.my-class-a {\n  border-color: #CB561E;\n  background-color: #f2c1a9;\n}\n.my-class-a .blockade-day {\n  background-color: #CB561E;\n}"]}]);
 // Exports
 module.exports = exports;
 
@@ -19,9 +19,9 @@ module.exports = exports;
 /***/ }),
 
 /***/ "../../node_modules/css-loader/dist/runtime/api.js":
-/*!*************************************************************************************************!*\
-  !*** /home/runner/work/ng-time-chart/ng-time-chart/node_modules/css-loader/dist/runtime/api.js ***!
-  \*************************************************************************************************/
+/*!*****************************************************************************************!*\
+  !*** /home/runner/work/charugala/charugala/node_modules/css-loader/dist/runtime/api.js ***!
+  \*****************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -124,9 +124,9 @@ function toComment(sourceMap) {
 /***/ }),
 
 /***/ "../../node_modules/style-loader/dist/runtime/injectStylesIntoStyleTag.js":
-/*!************************************************************************************************************************!*\
-  !*** /home/runner/work/ng-time-chart/ng-time-chart/node_modules/style-loader/dist/runtime/injectStylesIntoStyleTag.js ***!
-  \************************************************************************************************************************/
+/*!****************************************************************************************************************!*\
+  !*** /home/runner/work/charugala/charugala/node_modules/style-loader/dist/runtime/injectStylesIntoStyleTag.js ***!
+  \****************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -441,7 +441,7 @@ module.exports = exported;
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-module.exports = __webpack_require__(/*! /home/runner/work/ng-time-chart/ng-time-chart/projects/ng-time-chart-showcase/src/styles.scss */"./src/styles.scss");
+module.exports = __webpack_require__(/*! /home/runner/work/charugala/charugala/projects/ng-time-chart-showcase/src/styles.scss */"./src/styles.scss");
 
 
 /***/ })
